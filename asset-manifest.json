@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5b5f7db.css",
+    "main.js": "/static/js/main.b4db4d60.js",
+    "static/media/pexels-chan-walrus-958545.jpg": "/static/media/pexels-chan-walrus-958545.6a545d4d0a80d9813949.jpg",
+    "index.html": "/index.html",
+    "main.c5b5f7db.css.map": "/static/css/main.c5b5f7db.css.map",
+    "main.b4db4d60.js.map": "/static/js/main.b4db4d60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b5f7db.css",
+    "static/js/main.b4db4d60.js"
+  ]
+}
